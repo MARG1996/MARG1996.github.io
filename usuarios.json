@@ -66,6 +66,11 @@
 	{
             "usuario": "plasticar",
             "password": "1234",
+            "base": "Plasticar2015"
+	},
+	{
+            "usuario": "plasticar",
+            "password": "1234",
             "base": "Plasticar2015",
             "Ruc": "20479714461"
         }
