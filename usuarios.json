@@ -73,6 +73,17 @@
             "password": "1234",
             "base": "Plasticar2015",
             "Ruc": "20479714461"
+        },
+	    {
+            "usuario": "difarlib",
+            "password": "1234",
+            "base": "difarlib"
+	},
+	{
+            "usuario": "difarlib",
+            "password": "1234",
+            "base": "difarlib",
+            "Ruc": "20477602321"
         }
     ]
 }
