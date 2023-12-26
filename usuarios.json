@@ -106,6 +106,17 @@
             "password": "1234",
             "base": "InvetPeruNorte",
             "Ruc": "20606942606"
-        }
+        },
+	{
+            "usuario": "royers",
+            "password": "1234",
+            "base": "Royers",
+            "Ruc": "20570566734"
+        },
+	{
+            "usuario": "royers",
+            "password": "1234",
+            "base": "Royers"
+	}
     ]
 }
