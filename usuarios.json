@@ -117,6 +117,50 @@
             "usuario": "royers",
             "password": "1234",
             "base": "Royers"
+	},
+	{
+            "usuario": "juantafur",
+            "password": "1234",
+            "base": "JuanTafur",
+            "Ruc": "10459524873"
+        },
+	{
+            "usuario": "juantafur",
+            "password": "1234",
+            "base": "JuanTafur"
+	},
+	{
+            "usuario": "multidyb",
+            "password": "1234",
+            "base": "MultiDyB",
+            "Ruc": "20611044896"
+        },
+	{
+            "usuario": "multidyb",
+            "password": "1234",
+            "base": "MultiDyB"
+	},
+	{
+            "usuario": "rentcar",
+            "password": "1234",
+            "base": "RentCar",
+            "Ruc": "10437020022"
+        },
+	{
+            "usuario": "rentcar",
+            "password": "1234",
+            "base": "RentCar"
+	},
+	{
+            "usuario": "explora",
+            "password": "1234",
+            "base": "Explora",
+            "Ruc": "20603971001"
+        },
+	{
+            "usuario": "explora",
+            "password": "1234",
+            "base": "Explora"
 	}
     ]
 }
