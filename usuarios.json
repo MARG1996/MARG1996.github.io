@@ -171,6 +171,11 @@
             "usuario": "explora",
             "password": "1234",
             "base": "Explora"
+	},
+	    {
+            "usuario": "newguer",
+            "password": "1234",
+            "base": "NEWGUER"
 	}
     ]
 }
