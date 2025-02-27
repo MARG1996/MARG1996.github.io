@@ -1,0 +1,34 @@
+{
+    "empresas": [        
+        {
+            "ruc": "20570584635",
+			"nombre_base":"transcenor",
+			"usuario":"sa",
+			"password":"*,alro95su7del9",
+			"ip":"192.168.10.248",
+			"Sol2_usuario":"DIGITALB"
+            "Sol2_password":"Digi2020"
+			"pathFileJsk":"c:\\MyTech\\xml\\firmasok\\transcenor.jks",
+			"passJsk" : "Transcenor12",
+			"aliasCert" : "digitalbusiness",
+			"passCert" : "Transcenor12",
+			"ip_sql":"192.168.10.248",
+			"por_region":"0",
+			"tipo_fefac":"SUNAT",
+			"client_id_sol":"9d818812-a136-4374-965f-f4cf0e7d2d97",
+			"client_secret_sol":"FGiAalu7pRk8oCfcOlw3OA==",
+			"activo":"1",
+			"fecha_cert":"12/02/2028",
+			"client_id_sol_guia":"3dcc84a7-4e3c-4006-ae02-24f946bfb7a4",
+			"client_secret_sol_guia":"nZjtBF4S+1gBmBmPdll/IQ==",
+			"tipo_fefac_gre":"SUNAT"
+        }
+
+    ]
+}
+
+
+
+
+           
+            
