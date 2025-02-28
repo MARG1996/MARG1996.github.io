@@ -22,7 +22,30 @@
 			"client_id_sol_guia":"3dcc84a7-4e3c-4006-ae02-24f946bfb7a4",
 			"client_secret_sol_guia":"nZjtBF4S+1gBmBmPdll/IQ==",
 			"tipo_fefac_gre":"SUNAT"
-        }
+        },
+	{
+            		"ruc": "20612075353",
+			"nombre_base":"illariykantu",
+			"usuario":"sa",
+			"password":"*,alro95su7del9",
+			"ip":"localhost",
+			"Sol2_usuario":"Factura24",
+           		"Sol2_password":"Factura24",
+			"pathFileJsk":"c:\\MyTech\\xml\\firmasok\\illariykantu.jks",
+			"passJsk" : "Sistema12",
+			"aliasCert" : "digitalbusiness",
+			"passCert" : "Sistema12",
+			"ip_sql":"localhost",
+			"por_region":"0",
+			"tipo_fefac":"SUNAT",
+			"client_id_sol":"9d818812-a136-4374-965f-f4cf0e7d2d97",
+			"client_secret_sol":"FGiAalu7pRk8oCfcOlw3OA==",
+			"activo":"1",
+			"fecha_cert":"02/07/2027",
+			"client_id_sol_guia":"2f7f75d4-a3a9-4616-b672-cb4ef0bc1155",
+			"client_secret_sol_guia":"z2GLQor+/qWgsYWvmNTuTg==",
+			"tipo_fefac_gre":"SUNAT"
+        }    
 
     ]
 }
