@@ -8,7 +8,7 @@
 			"ip":"192.168.10.248",
 			"Sol2_usuario":"DIGITALB",
            		"Sol2_password":"Digi2020",
-			"pathFileJsk":"c:\\MyTech\\xml\\firmasok\\transcenor.jks",
+			"pathFileJsk":"c:\\Digitalb\\xml\\firmasok\\transcenor.jks",
 			"passJsk" : "Transcenor12",
 			"aliasCert" : "digitalbusiness",
 			"passCert" : "Transcenor12",
