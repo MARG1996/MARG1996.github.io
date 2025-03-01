@@ -45,7 +45,30 @@
 			"client_id_sol_guia":"2f7f75d4-a3a9-4616-b672-cb4ef0bc1155",
 			"client_secret_sol_guia":"z2GLQor+/qWgsYWvmNTuTg==",
 			"tipo_fefac_gre":"SUNAT"
-        }    
+        }  ,
+	    {
+            		"ruc": "20610998683",
+			"nombre_base":"",
+			"usuario":"sa",
+			"password":"*,alro95su7del9",
+			"ip":"",
+			"Sol2_usuario":"",
+           		"Sol2_password":"",
+			"pathFileJsk":"c:\\MyTech\\xml\\firmasok\\global.jks",
+			"passJsk" : "Factura25",
+			"aliasCert" : "digitalbusiness",
+			"passCert" : "Factura25",
+			"ip_sql":"",
+			"por_region":"0",
+			"tipo_fefac":"SUNAT",
+			"client_id_sol":"9d818812-a136-4374-965f-f4cf0e7d2d97",
+			"client_secret_sol":"FGiAalu7pRk8oCfcOlw3OA==",
+			"activo":"1",
+			"fecha_cert":"",
+			"client_id_sol_guia":"50312461-63bd-41ce-a1f7-91d8bd3293e5",
+			"client_secret_sol_guia":"s1PQx/h33rdJVA9370CjTg==",
+			"tipo_fefac_gre":"SUNAT"
+        }   
 
     ]
 }
