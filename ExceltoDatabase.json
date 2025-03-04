@@ -8,6 +8,13 @@
 "ip":"localhost",
 "username":"sa",
 "password":"*,alro95su7del9"
+        },
+	     {
+            "ruc": "20570584635",
+	    "basededatos":"Transcenor",
+"ip":"oficial.digitalberp.com",
+"username":"sa",
+"password":"*,alro95su7del9"
         }
 
     ]
