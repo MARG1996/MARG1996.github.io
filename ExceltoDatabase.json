@@ -15,6 +15,13 @@
 	    "ip":"oficial.digitalberp.com",
 	    "username":"sa",
 	    "password":"*,alro95su7del9"
+        },
+	{
+            "ruc": "20610998683",
+	    "basededatos":"Global",
+	    "ip":"localhost",
+	    "username":"sa",
+	    "password":"*,alro95su7del9"
         }
 
     ]
