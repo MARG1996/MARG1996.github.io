@@ -1,7 +1,7 @@
 {
-    "empresas": [        
+    "empresas": [         
         {
-            "ruc": "20570584635",
+            		"ruc": "20570584635",
 			"nombre_base":"transcenor",
 			"usuario":"sa",
 			"password":"*,alro95su7del9",
@@ -68,7 +68,29 @@
 			"client_id_sol_guia":"50312461-63bd-41ce-a1f7-91d8bd3293e5",
 			"client_secret_sol_guia":"s1PQx/h33rdJVA9370CjTg==",
 			"tipo_fefac_gre":"SUNAT"
-        }   
+        } ,   {
+            		"ruc": "20605616942",
+			"nombre_base":"demo_guiasqw",
+			"usuario":"sa",
+			"password":"*,alro95su7del9",
+			"ip":"oficial.digitalberp.com",
+			"Sol2_usuario":"FACTUR25",
+           		"Sol2_password":"Factura25",
+			"pathFileJsk":"c:\\MyTech\\xml\\firmasok\\urban.jks",
+			"passJsk" : "Factura25",
+			"aliasCert" : "digitalbusiness",
+			"passCert" : "Factura25",
+			"ip_sql":"oficial.digitalberp.com",
+			"por_region":"0",
+			"tipo_fefac":"SUNAT",
+			"client_id_sol":"9d818812-a136-4374-965f-f4cf0e7d2d97",
+			"client_secret_sol":"FGiAalu7pRk8oCfcOlw3OA==",
+			"activo":"1",
+			"fecha_cert":"03/04/2028",
+			"client_id_sol_guia":"367bd6ce-d78a-4ae6-9056-87e58e57c605",
+			"client_secret_sol_guia":"ZWtptrEsK1g8MwH9KsgLug==",
+			"tipo_fefac_gre":"SUNAT"
+        } 
 
     ]
 }
