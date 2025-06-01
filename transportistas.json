@@ -90,6 +90,28 @@
 			"client_id_sol_guia":"367bd6ce-d78a-4ae6-9056-87e58e57c605",
 			"client_secret_sol_guia":"ZWtptrEsK1g8MwH9KsgLug==",
 			"tipo_fefac_gre":"SUNAT"
+        } ,   {
+            		"ruc": "20610618201",
+			"nombre_base":"legsa",
+			"usuario":"sa",
+			"password":"*,alro95su7del9",
+			"ip":"localhost",
+			"Sol2_usuario":"FACTUR25",
+           		"Sol2_password":"Factura25",
+			"pathFileJsk":"c:\\MyTech\\xml\\firmasok\\legsa.jks",
+			"passJsk" : "Factura25",
+			"aliasCert" : "digitalbusiness",
+			"passCert" : "Factura25",
+			"ip_sql":"localhost",
+			"por_region":"0",
+			"tipo_fefac":"SUNAT",
+			"client_id_sol":"9d818812-a136-4374-965f-f4cf0e7d2d97",
+			"client_secret_sol":"FGiAalu7pRk8oCfcOlw3OA==",
+			"activo":"1",
+			"fecha_cert":"30/05/2028",
+			"client_id_sol_guia":"640d3ee6-0c95-47f3-90f4-bbb4f88b6092",
+			"client_secret_sol_guia":"6uDbj7JmUj3ZEQY78FUZUA==",
+			"tipo_fefac_gre":"SUNAT"
         } 
 
     ]
