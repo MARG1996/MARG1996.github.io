@@ -1,9 +1,9 @@
-//{
+{
     "empresas": [
         {
             "usuario": "sjComercializadora",
             "password": "123456",
-            "base": "San_Juan_Comercializadora"
+            "base": "San_Juan_Comercializadora","sa"
         },
 	{
             "usuario": "sjalmacenes",
